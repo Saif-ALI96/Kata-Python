@@ -1,0 +1,18 @@
+# Convert a Number to a String!
+
+# We need a function that can transform a number (integer) into a string.
+
+def number_to_string(num):
+    # Return a string of the number here!
+    num = str(num)
+    return num
+
+#  this is another solution 
+
+def number_to_string(num):
+    return "{}".format(num)
+
+# ######
+
+def number_to_string(num):
+    return str(num)
