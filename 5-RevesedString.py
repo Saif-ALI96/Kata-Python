@@ -5,9 +5,8 @@
 def solution(string):
 
     return string[::-1]
-
-#  c'est comprender un peu mieux la reponse 
-# print (solution("hello")) # Output: "olleh"
+#  pour comprender un peu mieux la fonctionnalite voici ce que on va voir avec le print  
+print (solution("hello")) # Output: "olleh"
 
 
 
