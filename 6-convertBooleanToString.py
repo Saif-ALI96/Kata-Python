@@ -11,6 +11,7 @@ def bool_to_word(boolean):
         return 'Yes'
     else:
         return 'No'
+print(bool_to_word(False))  # sorite -----> No 
     
 
 
