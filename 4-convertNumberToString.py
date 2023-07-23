@@ -6,6 +6,7 @@ def number_to_string(num):
     # Return a string of the number here!
     num = str(num)
     return num
+print(number_to_string('45')) # sorite ----> 45 srting 
 
 #  this is another solution 
 
