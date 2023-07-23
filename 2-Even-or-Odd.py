@@ -11,6 +11,7 @@ def even_or_odd(number):
     else:
 #         print(number,"Odd")
         return 'Odd'
+print(even_or_odd(4)) # sortie ----> Even
 
 
 #  this is another solution 
