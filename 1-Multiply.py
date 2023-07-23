@@ -9,3 +9,4 @@ def multiply(a, b):
 def multiply(a, b):
     code = a * b
     return code 
+print(multiply(3,5))   # sortie ----> 15
