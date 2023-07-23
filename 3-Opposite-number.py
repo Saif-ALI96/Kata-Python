@@ -5,7 +5,7 @@ def opposite(number):
     
   # your solution here
     return - number
-
+print(opposite(8))  # sorite ----> -8
 #  this is another solution 
 
 def opposite(number):
