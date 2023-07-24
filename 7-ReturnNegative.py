@@ -11,6 +11,7 @@ def make_negative( number ):
 
 #  abs() retrun le number vers le positive et le 
 # -abs() retrun le number vers le negative 
+print(make_negative(45)) # sorite ----> -45
 
 
 #  another solution 
