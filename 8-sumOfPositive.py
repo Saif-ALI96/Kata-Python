@@ -14,6 +14,8 @@ def positive_sum(arr):
             
             total += num
     return total
+print(positive_sum([-1,5,8,4,-5]))  # sortie ----> 17 
+#  il sum que les chiffres positives 
 
 
 
