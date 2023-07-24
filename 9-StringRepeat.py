@@ -10,6 +10,7 @@ def repeat_str(repeat, string):
     repeatition = repeat * string
     
     return repeatition 
+print(repeat_str(3,6))  # sortie ----> 18
 
 
 # another solution 
