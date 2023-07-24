@@ -6,19 +6,19 @@
 
 # For example, for [1, 2, 2] it should return 9 
 
-def square_sum(numbers):
-    #your code here
-    return sum([num*num for num in numbers])
+# def square_sum(numbers):
+#     #your code here
+#     return sum([num*num for num in numbers])
 
 # print (square_sum ([2, 2])) # sortie 8
 
 
-# def square_sum2(number):
-#     result = 0
-#     for num in number:
-#         result = result + num*num 
-#         return result
-# print(square_sum2([3,5,3]))
+def square_sum2(number):
+    result = 0
+    for num in number:
+        result = result + num*num 
+        return result
+print(square_sum2([4,4])) # sortie ----> 16
 
 #  another solution 
 # import numpy
@@ -27,6 +27,6 @@ def square_sum(numbers):
 #     return sum(numpy.array(numbers) ** 2)
 
 
-def square_sum(numbers):
-    return sum(x ** 2 for x in numbers)
+# def square_sum(numbers):
+#     return sum(x ** 2 for x in numbers)
        
