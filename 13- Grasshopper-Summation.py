@@ -14,7 +14,7 @@
 
 def summation(num):
     return (int(num/2))*(int(1+num))
-print('the number is ', summation(8))
+print('the number is ', summation(8)) # srotie ----> the number is  36
 
 
 
