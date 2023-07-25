@@ -16,6 +16,7 @@ def find_smallest_int(arr):
     return min(arr)
 print(find_smallest_int([4,2,6]))
 
+#  le fonction min() return le numero le plus smallest interger
 
 
 
