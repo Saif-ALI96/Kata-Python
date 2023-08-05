@@ -12,9 +12,9 @@
 # 8 -> 36 (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8)
 
 
-def summation(num):
+'''def summation(num):
     return (int(num/2))*(int(1+num))
-print('the number is ', summation(8)) # srotie ----> the number is  36
+print('the number is ', summation(8)) '''# srotie ----> the number is  36
 
 
 
