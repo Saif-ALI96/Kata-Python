@@ -7,7 +7,7 @@
 # For example, for [1, 2, 2] it should return 9 
 
 # def square_sum(numbers):
-#     #your code here
+# your code here
 #     return sum([num*num for num in numbers])
 
 # print (square_sum ([2, 2])) # sortie 8
