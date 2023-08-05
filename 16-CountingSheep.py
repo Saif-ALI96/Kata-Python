@@ -14,7 +14,7 @@ sheep_list = [True,False,True,False,True,False,True,False,True]
 # print("Number of Sheep:",count_sheeps(sheep_list))
 
 
-#  another solution
+#  another solution :
 # The count() method takes a single argument:
 
 def count_sheeps():   
