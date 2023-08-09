@@ -29,6 +29,7 @@ print(boolean_to_string(False))
 #  another solutions
 
 # 1
+
 def boolean_to_string(b):
     return str(b)
 
