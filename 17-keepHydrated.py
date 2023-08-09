@@ -25,7 +25,8 @@ def litres(time):
     return int(time/2)
 
 
-# another solution 
+# another solution :
+#  
 def litres(time):
     return 'Are you Tom Cruise?' if time < 0 else int(time/2)
 
