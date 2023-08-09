@@ -15,6 +15,7 @@ sheep_list = [True,False,True,False,True,False,True,False,True]
 
 
 #  another solution :
+
 # The count() method takes a single argument:
 
 def count_sheeps():   
