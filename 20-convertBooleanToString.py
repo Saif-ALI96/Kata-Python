@@ -30,8 +30,8 @@ print(boolean_to_string(False))
 
 # 1
 
-def boolean_to_string(b):
-    return str(b)
+def boolean_to_string(c):
+    return str(c)
 
 #  2
 
