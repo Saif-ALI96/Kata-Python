@@ -13,8 +13,8 @@ return result
 
 '''
 
-def double_integer(i):
+def double_integer(A):
     pass # Double the integer and return it!
-    return i*2
+    return A*2
 print('here is the double of 3 is : ' + str(double_integer(3)))
 #   -> here is the double of 3 is : 6
