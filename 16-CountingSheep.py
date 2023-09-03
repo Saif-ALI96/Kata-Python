@@ -4,14 +4,14 @@
 # We need a function that counts the number of sheep present in the array (true means present).
 
 sheep_list = [True,False,True,False,True,False,True,False,True]
-
+'''
 # def count_sheeps(sheep):
 #     count = 0
 #     for loop in sheep:
 #         if loop == True: 
 #             count +=1
 #     return count
-# print("Number of Sheep:",count_sheeps(sheep_list))
+# print("Number of Sheep:",count_sheeps(sheep_list))'''
 
 
 #  another solution :
