@@ -2,6 +2,7 @@
 # Convert a String to a Number!
 
 # Description:
+
 # We need a function that can transform a string into a number. What ways of achieving this do you know?
 
 # Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.
@@ -10,10 +11,10 @@
 
 
 
-def string_to_number(s):
+def string_to_number(t):
     # your code here
     pass
-    return int(s)
+    return int(t)
 
 print(string_to_number('23'))  # ---> 23 
 
