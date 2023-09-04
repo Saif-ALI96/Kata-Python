@@ -8,10 +8,10 @@ For example:
 [1, 2, 3] --> [2, 4, 6]
 '''
 def maps(a):
-    num = []
+    numbre = []
     for i in a:
-        num.append(i * 2)
-    return num
+        numbre.append(i * 2)
+    return numbre
 print (maps([1,2,4,5]))
 
 
