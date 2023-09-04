@@ -19,8 +19,8 @@ Input constraints:
 0 <= s <= 59
 '''
 
-def past(h, m, s):
-    return h * 60 * 60 * 1000 + m * 60 * 1000 + s * 1000
+def past(hour, minutes, second):
+    return hour * 60 * 60 * 1000 + minutes * 60 * 1000 + second * 1000
 
 print(past(1,1,1))   # sortie ----> 3661000
 
