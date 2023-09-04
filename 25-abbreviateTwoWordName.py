@@ -19,7 +19,7 @@ def abbrev_name(name):
         
     initial  = '.'.join([loop[0].upper() for loop in name.split(' ')])
     return initial
-print(abbrev_name('hello world'))
+print(abbrev_name('Hello World'))
 
 
 
