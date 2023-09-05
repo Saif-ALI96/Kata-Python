@@ -24,4 +24,4 @@ def summation1(num):
     return sum(range(num+1))
 # using built-in function range() and the "sum" method to calculate the total of numbers
 # from one till given num.
-print(f'the sum is {summation(2)}')
+print(f'the sum is {summation1(2)}')
