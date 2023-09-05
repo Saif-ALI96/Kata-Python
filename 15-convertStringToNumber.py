@@ -11,10 +11,10 @@
 
 
 
-def string_to_number(t):
+def string_to_number(tt):
     # your code here
     pass
-    return int(t)
+    return int(tt)
 
 print(string_to_number('23'))  # ---> 23 
 
