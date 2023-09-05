@@ -11,9 +11,9 @@
 
 # You can assume, for the purpose of this kata, that the supplied array will not be empty.
 
-def find_smallest_int(arr):
+def find_smallest_int(arrey):
 # Code here
-    return min(arr)
+    return min(arrey)
 print(find_smallest_int([4,2,6]))
 
 #  le fonction min() return le numero le plus smallest interger
