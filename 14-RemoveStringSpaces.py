@@ -10,7 +10,7 @@
 
 def remove_spaces(string):
     return string.replace(" ", "")
-print('{}' .format(remove_spaces('hello world my name is Saif')))
+print('{}' .format(remove_spaces('Hello World i am here')))
 # sortie -----> helloworldmynameisSaif
 
 
