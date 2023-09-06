@@ -7,9 +7,9 @@
 
 # Note: if there is nothing to sum, the sum is default to 0.
 
-def positive_sum(arr):
+def positive_sum(arrey):
     total = 0
-    for num in arr:
+    for num in arrey:
         if num > 0:
             
             total += num
