@@ -29,9 +29,9 @@ print(greet('Saif'))
 def greet(name):
     return "Hello, %s how are you doing today?" % name
 
-
+'''
 # 2
 def greet(name):
     return "Hello, {} how are you doing today?".format(name)
 
-
+'''
