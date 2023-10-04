@@ -31,3 +31,9 @@ def positive_sum(arr):
             if loop > 0:
                 total += loop 
         return total
+print (positive_sum([3 , -9,  6,   1 ]))
+    
+#  another solution 
+
+def positive_sum(arr):
+    return sum(x for x in arr if x > 0)
