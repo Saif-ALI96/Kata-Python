@@ -21,10 +21,10 @@ def square_sum2(number):
 print(square_sum2([4,4])) # sortie ----> 16
 
 #  another solution 
-# import numpy
+import numpy
 
-# def square_sum(numbers):
-#     return sum(numpy.array(numbers) ** 2)
+def square_sum(numbers):
+    return sum(numpy.array(numbers) ** 2)
 
 
 # def square_sum(numbers):
